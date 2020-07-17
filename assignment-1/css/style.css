@@ -50,7 +50,7 @@ h1{
 section {
 	position:relative;
 	border:1px solid black;
-	height:220px;
+	height:auto;
 	margin: 10px;
 	background-color: #b0b8ce;
 	
